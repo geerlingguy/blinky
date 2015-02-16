@@ -1,8 +1,6 @@
 # Blinky
 
-## LED Experiments with the Arduino Uno
-
-Some LED control sketches for Arduino Uno.
+*Experimental LED sketches for Arduino Uno.*
 
 ## Included sketches
 
